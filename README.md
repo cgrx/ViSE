@@ -7,4 +7,4 @@
 ## Papers
 
 ### Zero-Shot
-1. [Radford, Alec, et al. "Learning transferable visual models from natural language supervision." International Conference on Machine Learning. PMLR, 2021.](https://arxiv.org/abs/2103.00020)
+1. [Radford, Alec, et al. "Learning transferable visual models from natural language supervision." International Conference on Machine Learning. PMLR, 2021.](zero-shot/2103.00020.md)
